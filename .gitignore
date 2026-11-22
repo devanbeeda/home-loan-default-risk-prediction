@@ -1,0 +1,22 @@
+# Data files (too large, add them locally in the data/ folder)
+data/
+*.csv
+
+# Saved models
+*.joblib
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
